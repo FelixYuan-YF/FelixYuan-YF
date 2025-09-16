@@ -23,5 +23,5 @@
 ## ⭐️ From [FelixYuan-YF](https://github.com/FelixYuan-YF)
 
 <a href="https://github.com/NJU-3DV/SpatialVID">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NJU-3DV&repo=SpatialVID"  alt=""/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NJU-3DV&repo=SpatialVID" alt=""/>
 </a>
