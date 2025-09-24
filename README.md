@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Email](mailto:felixyuan2003@outlook.com)
 <!-- - 👯 I’m looking for a software development internship. -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixYuan-YF)](https://github.com/FelixYuan-YF/FelixYuan-YF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixYuan-YF&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=FelixYuan-YF&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&cache_seconds=14400)
 
