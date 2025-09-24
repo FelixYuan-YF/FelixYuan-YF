@@ -12,13 +12,9 @@
 - 📫 How to reach me: [Email](mailto:felixyuan2003@outlook.com)
 <!-- - 👯 I’m looking for a software development internship. -->
 
-## Languages and Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixYuan-YF)](https://github.com/FelixYuan-YF/FelixYuan-YF)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+![](https://github-readme-stats.vercel.app/api?username=FelixYuan-YF&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&cache_seconds=14400)
 
-![](https://github-readme-stats.vercel.app/api?username=FelixYuan-YF&show_icons=true&hide_border=true&count_private=true)
-
-## ⭐️ From [FelixYuan-YF](https://github.com/FelixYuan-YF)
-[![SpatialVID](https://github-readme-stats.vercel.app/api/pin/?username=NJU-3DV&repo=SpatialVID)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/NJU-3DV/spatialVID))
+## Recently Works
+[![SpatialVID](https://github-readme-stats.vercel.app/api/pin/?username=NJU-3DV&repo=SpatialVID&cache_seconds=14400)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/NJU-3DV/spatialVID))
