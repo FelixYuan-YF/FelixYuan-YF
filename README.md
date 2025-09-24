@@ -18,10 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![](https://github-readme-stats.vercel.app/api?username=FelixYuan-YF&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=FelixYuan-YF&show_icons=true&hide_border=true&count_private=true)
 
 ## ⭐️ From [FelixYuan-YF](https://github.com/FelixYuan-YF)
-
-<a href="https://github.com/NJU-3DV/SpatialVID">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NJU-3DV&repo=SpatialVID" alt=""/>
-</a>
+[![SpatialVID](https://github-readme-stats.vercel.app/api/pin/?username=NJU-3DV&repo=SpatialVID)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/NJU-3DV/spatialVID))
