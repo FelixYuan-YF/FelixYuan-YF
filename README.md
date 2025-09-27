@@ -17,4 +17,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=FelixYuan-YF&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&cache_seconds=14400)
 
 ## Recently Works
-[![SpatialVID](https://github-readme-stats.vercel.app/api/pin/?username=NJU-3DV&repo=SpatialVID&cache_seconds=14400)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/NJU-3DV/spatialVID))
+[![SpatialVID](https://github-readme-stats.vercel.app/api/pin/?username=NJU-3DV&repo=SpatialVID&cache_seconds=14400)](https://github.com/NJU-3DV/spatialVID)
